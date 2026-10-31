@@ -1,0 +1,101 @@
+category,topic_id,rank,keyword,score
+Alzheimer's disease,2,1,cognitive impairment,0.25871083
+Alzheimer's disease,2,2,oxidative stress,0.2535409
+Alzheimer's disease,2,3,impairment,0.24193837
+Alzheimer's disease,2,4,abeta1-42,0.24118072
+Alzheimer's disease,2,5,dysfunction,0.23880802
+Alzheimer's disease,2,6,abeta42,0.23008561
+Alzheimer's disease,2,7,cognitive decline,0.22351171
+Alzheimer's disease,2,8,ad,0.22100756
+Alzheimer's disease,2,9,mci,0.2157564
+Alzheimer's disease,2,10,disease,0.21075176
+Antimicrobial resistance,9,1,multidrug resistance,0.41868433
+Antimicrobial resistance,9,2,antimicrobial resistance amr,0.31319204
+Antimicrobial resistance,9,3,drug resistance,0.30736524
+Antimicrobial resistance,9,4,crkp,0.30293414
+Antimicrobial resistance,9,5,multidrug-resistant,0.28303134
+Antimicrobial resistance,9,6,resistance amr,0.24874428
+Antimicrobial resistance,9,7,args,0.24831933
+Antimicrobial resistance,9,8,genetic,0.2163175
+Antimicrobial resistance,9,9,antibiotic resistance,0.21539202
+Antimicrobial resistance,9,10,antimicrobial resistance,0.20920275
+Asthma,6,1,copd,0.2483348
+Asthma,6,2,asthma copd,0.21992481
+Asthma,6,3,mepolizumab,0.19242084
+Asthma,6,4,allergic asthma,0.19002567
+Asthma,6,5,asthmatic mice,0.18929555
+Asthma,6,6,diseases,0.18479428
+Asthma,6,7,asthma,0.18346861
+Asthma,6,8,uncontrolled asthma,0.18074149
+Asthma,6,9,disease,0.17346838
+Asthma,6,10,pediatric asthma,0.16793771
+Breast cancer,1,1,her2-low,0.23339044
+Breast cancer,1,2,lrrc15,0.19427368
+Breast cancer,1,3,bcs,0.15750398
+Breast cancer,1,4,breast cancer,0.15045497
+Breast cancer,1,5,endocrine therapy,0.14674416
+Breast cancer,1,6,mastectomy,0.14278099
+Breast cancer,1,7,risk,0.13924564
+Breast cancer,1,8,lymphedema,0.1330917
+Breast cancer,1,9,implications cancer survivors,0.13206023
+Breast cancer,1,10,endocrine,0.12759376
+COVID-19,3,1,cdi,0.22131464
+COVID-19,3,2,disabilities,0.14877954
+COVID-19,3,3,ci,0.13898763
+COVID-19,3,4,risk,0.11897424
+COVID-19,3,5,increased,0.09910771
+COVID-19,3,6,interviews,0.09898469
+COVID-19,3,7,outcomes,0.09713968
+COVID-19,3,8,problematic substance use,0.094377816
+COVID-19,3,9,e g,0.088922165
+COVID-19,3,10,s,0.08773045
+Depression,4,1,gad,0.2920653
+Depression,4,2,sch,0.24567127
+Depression,4,3,aces,0.2008788
+Depression,4,4,disorder mdd,0.1971925
+Depression,4,5,mdd,0.1785775
+Depression,4,6,disorder,0.17820129
+Depression,4,7,disorders,0.17435902
+Depression,4,8,rsfc,0.16468987
+Depression,4,9,hcs,0.1258966
+Depression,4,10,gyrus,0.12542054
+Hypertension,5,1,hypertension diabetes,0.5004405
+Hypertension,5,2,comorbidities,0.33636326
+Hypertension,5,3,hgs,0.278628
+Hypertension,5,4,pulmonary hypertension,0.25436074
+Hypertension,5,5,arterial hypertension,0.25264505
+Hypertension,5,6,mmhg,0.24518819
+Hypertension,5,7,echocardiography,0.22726771
+Hypertension,5,8,iih,0.22128369
+Hypertension,5,9,echocardiographic,0.20771956
+Hypertension,5,10,risk,0.20571741
+Inflammatory bowel disease,7,1,treatment failure,0.2734605
+Inflammatory bowel disease,7,2,crohn s disease,0.25437385
+Inflammatory bowel disease,7,3,crohn s,0.23786718
+Inflammatory bowel disease,7,4,crohn,0.22345594
+Inflammatory bowel disease,7,5,ci,0.22124419
+Inflammatory bowel disease,7,6,ulcerative colitis uc,0.21692967
+Inflammatory bowel disease,7,7,ahr ci,0.21344359
+Inflammatory bowel disease,7,8,ibd,0.20859252
+Inflammatory bowel disease,7,9,disease ibd,0.2056138
+Inflammatory bowel disease,7,10,ulcerative colitis,0.19153994
+Osteoarthritis,8,1,ankle,0.31669903
+Osteoarthritis,8,2,cartilage damage,0.29309645
+Osteoarthritis,8,3,bmi,0.25829506
+Osteoarthritis,8,4,tibial,0.20248798
+Osteoarthritis,8,5,dmm,0.20079945
+Osteoarthritis,8,6,score,0.18779239
+Osteoarthritis,8,7,cartilage,0.17213044
+Osteoarthritis,8,8,risk,0.16901283
+Osteoarthritis,8,9,scores,0.16780367
+Osteoarthritis,8,10,arthroplasty tka,0.16452509
+Type 2 diabetes,0,1,diabetic nephropathy,0.57934576
+Type 2 diabetes,0,2,type diabetes,0.57694733
+Type 2 diabetes,0,3,type diabetes mellitus,0.5740187
+Type 2 diabetes,0,4,diabetes,0.5605556
+Type 2 diabetes,0,5,diabetes care,0.5584515
+Type 2 diabetes,0,6,diabetes mellitus,0.5434114
+Type 2 diabetes,0,7,diabetes mellitus t2dm,0.532302
+Type 2 diabetes,0,8,type diabetes t2d,0.5237757
+Type 2 diabetes,0,9,diabetic,0.5197151
+Type 2 diabetes,0,10,diabetes t2d,0.49693537
